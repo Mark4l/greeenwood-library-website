@@ -46,6 +46,31 @@ I staged, commited, and pushed changes directly to the main branch
 
 
 
+## JAMIE'S WORK
+1. I created a branch for Jamie which was update-events
+![branch for Jamie](./images/branch-jamie-update-events.PNG)
+
+2. I added a newfile named event.html with a random content written in it
+![event.html](./images/events.html-screnn.PNG)
+
+3. I staged, commited, and pushed changes to update-events
+![staging](./images/staging-3-jamie.PNG)
+
+![commit](./images/commit-3-jamie.PNG)
+
+![push](./images/push-3-jamie.PNG)
+
+4. I pull the latest changes from the main branch before raising a PR
+![Push](./images/push-3%20jamie-updated-event.PNG)
+
+5. I merged Jamie's work with the main branch 
+![merged](./images/merged-update.PNG)
+
+
+
+
+
+
 
 
 
