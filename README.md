@@ -42,7 +42,7 @@ I staged, commited, and pushed changes directly to the main branch
 ![pull request](./images/PR-book-reviews.PNG)
 
 5. I Merged Morgan's work to the main branch
-![merge](./images/merged-book-reviews.PNG)
+![merge](./images/merged-book-reviews.PNG) .
 
 
 
