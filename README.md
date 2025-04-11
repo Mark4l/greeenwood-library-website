@@ -60,6 +60,13 @@ I staged, commited, and pushed changes directly to the main branch
 
 ![push](./images/push-3-jamie.PNG)
 
+4. I pull the latest changes from the main branch before raising a PR
+![Push](./images/push-3%20jamie-updated-event.PNG)
+
+5. I merged Jamie's work with the main branch 
+![merged](./images/merged-update.PNG)
+
+
 
 
 
