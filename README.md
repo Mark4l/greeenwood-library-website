@@ -1,4 +1,12 @@
-# greenwood-library-website
-## 1. Created a repostory, cloned the repository from my local machine
-## 2. Added html files on the visual code editior
-## 3. Stage, commit and push 
+# Greenwood-Library-Website
+The project is about enhancing a community website for Greenwood Community Library
+
+---
+## Task One
+In Task one the main branch was created with the web pages as shown in the picture below
+![main](./images/First-main.PNG)
+
+
+
+
+
