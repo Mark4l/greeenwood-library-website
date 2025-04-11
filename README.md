@@ -23,4 +23,24 @@ I staged, commited, and pushed changes directly to the main branch
 
 ---
 
-## 
+## MORGAN'S WORK
+1. I created a branch for Morgan which add-book-reviews
+![add-book-reviews-screenshot](./images/branch-add-book-reviews.PNG)
+
+2. I added a new file named book-reviews.html and added content to it
+![book-reviews.html-screenshot](./images/book-review.html)
+
+
+3.  I staged, commited, and pushed changes to add-book-reviews-section branch
+![stage](./images/staging-2.PNG)
+
+![commit](./images/commit-2.PNG)
+
+![push](./images/push-2.PNG)
+
+4. I raised Pull Request (PR) for Morgan's work
+![pull request](./images/PR-book-reviews.PNG)
+
+5. I Merged Morgan's work to the main branch
+![merge](./images/merged-book-reviews.PNG)
+
