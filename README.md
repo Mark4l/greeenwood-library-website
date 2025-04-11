@@ -14,5 +14,13 @@ I added a random content into each of the files
 <br>
 
 ## Task Three
+I staged, commited, and pushed changes directly to the main branch 
+![stage](./images/staging.PNG)
 
+![commit](./images/commit.PNG)
 
+![push](./images/push.PNG)
+
+---
+
+## 
